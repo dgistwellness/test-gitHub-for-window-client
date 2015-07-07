@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 package enjoy;
 
 public class gugudan {
@@ -11,3 +12,13 @@ public class gugudan {
 		}
 	}
 }
+=======
+package enjoy;
+
+public class gugudan {
+
+	public static void main(String[] args) {
+		System.out.println("Hello world");
+	}
+}
+>>>>>>> parent of 67d4ea0... my first branch
